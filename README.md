@@ -6,7 +6,9 @@ All team members contributed equally
 
 ## Portfolio 2, Overall participation in the course activities
 For **Hugging face tutorial**, all of us participated.
+
 For **Poem Slam**, Dongxu Liu, Debarghya Barik and Rikuto Momoi participated.
+
 For **DAAD Hackthon**, Dongxu Liu, Debarghya Barik and Rikuto Momoi participated.
 
 ## Portfolio 3, Kaggle Competition
